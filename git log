@@ -1,0 +1,38 @@
+[33mcommit 5e4139c7f580f3a5249e5aebe79ad6cd606a94e1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Ingrid <ingridvisilva@hotmail.com>
+Date:   Sun Nov 24 17:32:27 2024 -0300
+
+    criei o changelog
+
+ changelog.md | 9 [32m+++++++++[m
+ 1 file changed, 9 insertions(+)
+
+[33mcommit cfbb264aa856473b958e93f0ef5cca17efdbf448[m
+Author: Ingrid <ingridvisilva@hotmail.com>
+Date:   Sun Nov 24 16:37:09 2024 -0300
+
+    tentativa no arquivo2.txt
+
+ arquivo2.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 87bfaeb5cfa21e3c00151f086059a5272347ece2[m
+Author: Ingrid <ingridvisilva@hotmail.com>
+Date:   Sun Nov 24 16:32:38 2024 -0300
+
+    alterando conteúdo arquivo2.txt
+
+ arquivo2.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 8558c9b1fc975d494cf9f5d2345fdc3540457944[m
+Author: Ingrid <ingridvisilva@hotmail.com>
+Date:   Sun Nov 24 16:26:15 2024 -0300
+
+    criei dois arquivos
+    
+    dois testes
+
+ arquivo1.txt | 1 [32m+[m
+ arquivo2.txt | 1 [32m+[m
+ 2 files changed, 2 insertions(+)
